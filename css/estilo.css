@@ -95,8 +95,23 @@ div{
 
 .tuudo{
     height: 400px;
-    flex-direction: column;
     width: 80%;
     margin: 30px auto;
-    align-items: baseline;
+    align-items: center;
+}
+
+.a20vh{
+    height: 20vh;
+}
+
+.a30vh{
+    height: 30vh;
+}
+
+.a15vh{
+    height: 15vh;
+}
+
+.a35vh{
+    height: 15vh;
 }
