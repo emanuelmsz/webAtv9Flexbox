@@ -75,3 +75,28 @@ div{
 }
 
 /*prox. doc*/
+
+.linha{
+    display: flex;
+    flex: 1;
+}
+
+.quadrado1{
+    background-color: #797777;
+    flex: 1;
+}
+
+.quadrado2{
+    background-color: #4d4d4d;
+    flex: 1;
+}
+
+/*prox. doc*/
+
+.tuudo{
+    height: 400px;
+    flex-direction: column;
+    width: 80%;
+    margin: 30px auto;
+    align-items: baseline;
+}
