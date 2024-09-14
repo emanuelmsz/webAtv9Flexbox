@@ -76,6 +76,13 @@ div{
 
 /*prox. doc*/
 
+.tabuleiro{
+    height: 500px;
+    flex-direction: column;
+    width: 500px;
+    margin: 30px auto;
+}
+
 .linha{
     display: flex;
     flex: 1;
@@ -94,24 +101,33 @@ div{
 /*prox. doc*/
 
 .tuudo{
-    height: 400px;
-    width: 80%;
+    height: 78vh;
+    width: 60%;
     margin: 30px auto;
     align-items: center;
 }
 
 .a20vh{
     height: 20vh;
+    background-color: #353535;
 }
 
 .a30vh{
     height: 30vh;
+    background-color: #4d4d4d;
 }
 
 .a15vh{
     height: 15vh;
+    background-color: #797777;
+}
+
+.a50vh{
+    height: 50vh;
+    background-color: #474747;
 }
 
 .a35vh{
-    height: 15vh;
+    height: 35vh;
+    background-color: #a0a0a0;
 }
